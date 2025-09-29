@@ -757,6 +757,19 @@ function fnc_project_color(values, context) {
 
 
 
+function exp_label_BusDBRoute1_linie_1_eval_expression(context) {
+    // 'Route 1'
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return 'Route 1';
+    } else {
+        return 'Route 1';
+    }
+}
+
+
 function exp_label_Route1_2_eval_expression(context) {
     // '<div><b>' || Name || '</b></div>' || '<div>Hinfahrt: ' || "Abfahrt hin" || '</div>' || '<div>Rückfahrt: ' || "Ankunft Rück" || '</div>'
 
