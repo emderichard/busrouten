@@ -1,0 +1,1 @@
+var json_Discoabend_3 = {"type":"FeatureCollection","name":"Discoabend_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Adorf, Mittelpunktschule","Ankunft Hin":"20:20","Abfahrt Rück":"0:45"},"geometry":{"type":"Point","coordinates":[8.806991103535765,51.362689642765382]}}]}
